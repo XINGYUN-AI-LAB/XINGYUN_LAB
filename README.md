@@ -17,7 +17,7 @@ Welcome to **XINGYUN LAB**'s official code repository! This repository contains 
 
 **Resources:**
 - 📄 [Paper (arXiv)](https://arxiv.org/abs/2601.07408)
-- 💻 [Code](./OAR-mathematical-reasoning/)
+- 💻 [Code](./OAR/)
 - 🏆 **Accepted at ACL 2026**
 
 ---
@@ -34,9 +34,65 @@ Each paper has its own directory containing:
 ```
 XINGYUN_LAB/
 ├── README.md
-├── OAR-mathematical-reasoning/
+├── OAR/
 │   ├── README.md
 │   ├── requirements.txt
 │   ├── code/
+│   ├── data/
+│   └── experiments/
 └── [future papers...]
 ```
+
+---
+
+## 🚀 Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/XINGYUN-AI-LAB/XINGYUN_LAB.git
+   cd XINGYUN_LAB
+   ```
+
+2. **Navigate to a specific paper**
+   ```bash
+   cd OAR
+   ```
+
+3. **Follow the paper-specific README for setup and usage**
+
+---
+
+## 👥 Team
+
+**XINGYUN LAB** - AI and NLP Research Laboratory
+
+---
+
+## 📧 Contact
+
+For questions about specific papers, please open an issue in this repository or contact the corresponding author listed in the paper.
+
+---
+
+## 📝 Citation
+
+If you find our work useful, please cite the relevant paper:
+
+```bibtex
+@inproceedings{li2026outcome,
+  title={Outcome-Grounded Advantage Reshaping for Fine-Grained Credit Assignment in Mathematical Reasoning},
+  author={Li, Ziheng and Kang, Liu and Xiao, Feng and Xing, Luxi and Si, Qingyi and Li, Zhuoran and Gong, Weikang and Yang, Deqing and Xiao, Yanghua and Guo, Hongcheng},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year={2026}
+}
+```
+
+---
+
+## 📜 License
+
+Each project may have its own license. Please refer to the LICENSE file in each paper's directory.
+
+---
+
+**Last Updated:** April 2026
