@@ -24,22 +24,11 @@ Welcome to **XINGYUN LAB**'s official code repository! This repository contains 
 
 ## 🗂️ Repository Structure
 
-Each paper has its own directory containing:
-- `README.md` - Detailed instructions and documentation
-- `requirements.txt` - Python dependencies
-- `code/` - Source code implementation
-- `data/` - Sample datasets or data preprocessing scripts (if applicable)
-- `experiments/` - Experiment configurations and scripts
-
 ```
 XINGYUN_LAB/
 ├── README.md
 ├── OAR/
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── code/
-│   ├── data/
-│   └── experiments/
+│   └── main.py
 └── [future papers...]
 ```
 
@@ -58,7 +47,7 @@ XINGYUN_LAB/
    cd OAR
    ```
 
-3. **Follow the paper-specific README for setup and usage**
+3. **Follow the instructions in each paper's directory**
 
 ---
 
